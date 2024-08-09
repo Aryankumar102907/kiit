@@ -65,5 +65,4 @@ int main()
     {
         printf("%d ",*(arr3 + p));
     }
-    return 0;
 }
